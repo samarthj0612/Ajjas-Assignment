@@ -1,0 +1,92 @@
+
+        <div key={i++} className="comment m-2 p-2 rounded">
+          <div className="d-flex gap-2">
+            <div
+              style={{
+                height: "20px",
+                width: "20px",
+                border: "1px solid black",
+                borderRadius: "50%",
+              }}
+            ></div>
+            <span>Samarth jain</span>
+          </div>
+          <p id="commentData">this is samarth jain</p>
+        </div>
+
+        <div key={i++} className="comment m-2 p-2 rounded">
+          <div className="d-flex gap-2">
+            <div
+              style={{
+                height: "20px",
+                width: "20px",
+                border: "1px solid black",
+                borderRadius: "50%",
+              }}
+            ></div>
+            <span>Samarth jain</span>
+          </div>
+          <p id="commentData">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dolor quisquam possimus et. Quis odio consequuntur, amet corporis iure, et illum praesentium quia consectetur quidem incidunt quod eligendi eum laudantium!</p>
+        </div>
+
+        <div key={i++} className="comment m-2 p-2 rounded">
+          <div className="d-flex gap-2">
+            <div
+              style={{
+                height: "20px",
+                width: "20px",
+                border: "1px solid black",
+                borderRadius: "50%",
+              }}
+            ></div>
+            <span>Samarth jain</span>
+          </div>
+          <p id="commentData">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dolor quisquam possimus et. Quis odio consequuntur, amet corporis iure, et illum praesentium quia consectetur quidem incidunt quod eligendi eum laudantium! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam aut possimus, voluptate corporis dignissimos eaque, consectetur placeat repellendus itaque eos unde minima? Tempore blanditiis nostrum eveniet? Facere perspiciatis voluptas quis! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi deleniti aspernatur, quo ea ut impedit autem, repudiandae optio vitae quas molestiae praesentium doloribus, ullam voluptatum labore officia exercitationem nisi cumque!</p>
+        </div>
+
+        
+        <div key={i++} className="comment m-2 p-2 rounded">
+          <div className="d-flex gap-2">
+            <div
+              style={{
+                height: "20px",
+                width: "20px",
+                border: "1px solid black",
+                borderRadius: "50%",
+              }}
+            ></div>
+            <span>Samarth jain</span>
+          </div>
+          <p id="commentData">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dolor quisquam possimus et. Quis odio consequuntur, amet corporis iure, et illum praesentium quia consectetur quidem incidunt quod eligendi eum laudantium!</p>
+        </div>
+        
+        <div key={i++} className="comment m-2 p-2 rounded">
+          <div className="d-flex gap-2">
+            <div
+              style={{
+                height: "20px",
+                width: "20px",
+                border: "1px solid black",
+                borderRadius: "50%",
+              }}
+            ></div>
+            <span>Samarth jain</span>
+          </div>
+          <p id="commentData">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dolor quisquam possimus et. Quis odio consequuntur, amet corporis iure, et illum praesentium quia consectetur quidem incidunt quod eligendi eum laudantium!</p>
+        </div>
+        
+        <div key={i++} className="comment m-2 p-2 rounded">
+          <div className="d-flex gap-2">
+            <div
+              style={{
+                height: "20px",
+                width: "20px",
+                border: "1px solid black",
+                borderRadius: "50%",
+              }}
+            ></div>
+            <span>Samarth jain</span>
+          </div>
+          <p id="commentData">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dolor quisquam possimus et. Quis odio consequuntur, amet corporis iure, et illum praesentium quia consectetur quidem incidunt quod eligendi eum laudantium!</p>
+        </div>
+

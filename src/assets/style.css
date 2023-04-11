@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+#sj-main{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+#displaycomments{
+    box-shadow: inset 0px 0px 10px 5px rgba(0, 0, 0, 0.408);
+    border-radius: 10px;
+    height: 100%;
+    padding: 20px;
+    overflow-y: auto;
+}       
+#commentsection{
+    height: 100%;
+    padding-left: 10px;
+}
+#newcomment{
+    padding: 20px;
+    border-radius: 10px;
+}
+.comment{
+    background-color: rgba(0, 0, 0, 0.200);
+}
+.comment i{ 
+    font-size: 22px;
+}
+.comment span{
+    font-size: 15px;
+}
